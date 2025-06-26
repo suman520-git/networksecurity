@@ -30,6 +30,7 @@ from networksecurity.constant.training_pipeline import SAVED_MODEL_DIR
 import sys
 
 
+
 class TrainingPipeline:
     def __init__(self):
         self.training_pipeline_config=TrainingPipelineConfig()
