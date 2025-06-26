@@ -32,3 +32,4 @@ newgrp docker
 
 
 ##pymongo[srv]==3.6
+137068222648.dkr.ecr.us-east-1.amazonaws.com/networksecurity:latest
